@@ -75,16 +75,29 @@ Experimental UI and creative web pages.
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/loki1512">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <a href="https://github.com/loki1512" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/loknath-sai-gurijala-27b179203/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:loknathsai.gurijala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </p>
+
+
 
 ---
 
 <p align="center">
   <i>⚡ Designed to feel alive. Built with purpose.</i>
 </p>
+>
