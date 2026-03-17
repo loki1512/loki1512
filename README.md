@@ -45,14 +45,18 @@ Interactive math learning platform for school students.
 
 ---
 
-### 🌐 KSA 2.0 – Live Web Application
+### 🌐 KSA 3.0 – Live Web Application
 Production-ready web application deployed online.
 
-🔗 https://ksa-2-0.onrender.com/
+🔗 https://ksa-3-0.onrender.com/
 
 ⚡ Modern UI  
 ⚡ Backend integrated  
 ⚡ Live deployment
+⚡ Smart Keyword and token based search.
+⚡ Customer centric ledger and wallet system.
+⚡ Optimised for small retail sales.
+
 
 ---
 
