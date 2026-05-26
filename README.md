@@ -116,9 +116,9 @@ A production-ready retail operations platform designed around real-world busines
 
 🌐 Live: https://ksa-3-0.onrender.com/
 
-📖 Repository: https://github.com/loki1512/KSA-3.0
+📖 Repository: https://github.com/loki1512/KSA-2.0/tree/v4-inventory_management-dev
 
-📄 README: https://github.com/loki1512/KSA-3.0/blob/main/README.md
+📄 README: https://github.com/loki1512/KSA-2.0/blob/v4-inventory_management-dev/README.md
 
 ---
 
