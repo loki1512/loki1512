@@ -301,14 +301,6 @@ Data Science • AI • Business Analytics • Quantum Computing • Educational
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/loki1512/loki1512/main/output/github-contribution-snake.svg" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Business Analytics & Decision Systems
